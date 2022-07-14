@@ -1,16 +1,16 @@
 /**
- * @name Spotify_Discord
- * @version 1.5.0
+ * @name Spotify_Discord_V1
+ * @version 1.0.0
  * @description Combine Discord and Spotify into one
- * @author CapnKitten
+ * @author V1uk
  * 
- * @website http://github.com/CapnKitten
- * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/css/source.css
- * @donate https://paypal.me/capnkitten
- * @invite jzJkA6Z
+ * @website http://github.com/V1uk
+ * @source TBA
+ * @donate https://paypal.me/V1uk
+ * 
  */
 
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css);
+@import url(
 
 :root {
 	--accent-color: #1db954;
